@@ -16,6 +16,6 @@ Bot for Telegram. Used telebot-python3.
 ```
  3. Run your bot:
 ```python
-	python3 run.py
+    python3 run.py
 ```
  4. Enjoy.

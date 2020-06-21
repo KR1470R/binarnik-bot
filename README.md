@@ -10,7 +10,7 @@ Bot for Telegram. Used telebot-python3.
 ```python
     pip install pyTelegramBotAPI==0.3.0
 ```
- 2. Put your token bot into run.py script varriable
+ 2. Put your token bot into run.py script varriable:
 ```python
     9| TOKEN = 'HERE YOUR TOKEN'  # Deploy bot
 ```

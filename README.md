@@ -8,7 +8,7 @@ Bot for Telegram. Used telebot-python3.
 
  1. Install Telebot Api:
 ```python
-    pip install pyTelegramBotAPI==0.3.0
+    pip install pyTelegramBotAPI
 ```
  2. Put your token bot into run.py script varriable:
 ```python
